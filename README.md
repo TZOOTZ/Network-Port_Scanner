@@ -5,6 +5,7 @@
 **TZOOTZ RESEARCH 2025® Network & Port Scanner** es una herramienta visual desarrollada en Python para escanear redes y puertos de forma eficiente y fácil de usar. Diseñada con un enfoque en simplicidad y robustez, esta aplicación permite diagnosticar conectividad de red y verificar el estado de puertos en sistemas objetivos.
 
 ---
+![Captura de Pantalla](./screenshot.png)
 
 ## Características
 
@@ -45,7 +46,7 @@
 
 1. **Clonar el Repositorio**:
    ```bash
-   git clone https://github.com/tuusuario/tzootz-research-scanner.git
+   git clone https://github.com/tzootz/tzootz-research-scanner.git
    cd tzootz-research-scanner
    ```
 
@@ -67,12 +68,6 @@
    - Introduce la IP objetivo y el rango de puertos.
    - Presiona el botón **Scan Ports** para iniciar.
    - Los resultados de cada puerto escaneado se mostrarán en tiempo real.
-
----
-
-## Ejemplo de Pantalla
-
-![Captura de Pantalla](./screenshot.png)
 
 ---
 
