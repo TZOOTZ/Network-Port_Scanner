@@ -72,7 +72,7 @@
 
 ## Ejemplo de Pantalla
 
-![Captura de Pantalla] screenshot.png *(Incluir una captura si la tienes)*
+![Captura de Pantalla](./screenshot.png)
 
 ---
 
